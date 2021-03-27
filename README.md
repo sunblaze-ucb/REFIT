@@ -1,10 +1,10 @@
-# REFIT: a Unified Watermark Removal Framework for Deep Learning Systems with Limited Data
+# REFIT: A Unified Watermark Removal Framework For Deep Learning Systems With Limited Data
 
-This repository provides a PyTorch implementation of the paper [REFIT: a Unified Watermark Removal Framework for Deep Learning Systems with Limited Data](http://arxiv.org/abs/1911.07205). It is built from the code base of [Adi et al](https://github.com/adiyoss/WatermarkNN). 
+This repository provides a PyTorch implementation of the paper [REFIT: A Unified Watermark Removal Framework For Deep Learning Systems With Limited Data](http://arxiv.org/abs/1911.07205). It is built from the code base of [Adi et al](https://github.com/adiyoss/WatermarkNN). 
 
 ## Paper 
 
-REFIT: a Unified Watermark Removal Framework for Deep Learning Systems with Limited Data
+REFIT: A Unified Watermark Removal Framework For Deep Learning Systems With Limited Data
 
 Xinyun Chen\*, Wenxiao Wang\*, Chris Bender, Yiming Ding, Ruoxi Jia, Bo Li, Dawn Song. (\* Equal contribution)
 
@@ -138,7 +138,7 @@ python3 predict.py --model_path=./checkpoint/cifar10_OOD.t7 --wm_path=./data/tri
 If you find our work useful please cite: 
 ```
 @inproceedings{chen2021refit,
-  title={REFIT: a Unified Watermark Removal Framework for Deep Learning Systems with Limited Data},
+  title={REFIT: A Unified Watermark Removal Framework For Deep Learning Systems With Limited Data},
   author={Chen, Xinyun and Wang, Wenxiao and Bender, Chris and Ding, Yiming and Jia, Ruoxi and Li, Bo and Song, Dawn},
   booktitle={Proceedings of the 2021 on Asia Conference on Computer and Communications Security},
   year={2021}
